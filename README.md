@@ -132,5 +132,7 @@ namespace NWDiNWW
 ```
 https://www.plukasiewicz.net/CSharp_dla_poczatkujacych/Struktury
 
+
+Pomocne linki do nauki:
 https://blog.przemyslawsobolewski.com/nww-i-nwd-w-c/
 https://rrogacz.pl/c-nwdnww
