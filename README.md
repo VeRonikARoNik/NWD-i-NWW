@@ -1,3 +1,4 @@
+wykonanezadania100@gmail.com
 # 🔢 NWD i NWW — aplikacja .NET WinForms
 
 Ten projekt przedstawia prostą aplikację Windows Forms, która oblicza:
